@@ -41,6 +41,20 @@ const emojipedia = [
     meaning:
       "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love. ",
   },
+  {
+    id: 7,
+    emoji: "😷",
+    name: "Face with Medical Mask",
+    meaning:
+      "A yellow face wearing a white surgical mask, as used by health workers in hospitals as well as the general public during a pandemic. May be worn to avoid sickness or spreading airborne diseases. ",
+  },
+  {
+    id: 8,
+    emoji: "🤳",
+    name: "Selfie",
+    meaning:
+      "A mobile phone held up to take a selfie (photo of the person holding the phone or camera). Generally represented as a disembodied arm holding a mobile phone. ",
+  },
 ];
 
 export default emojipedia;
